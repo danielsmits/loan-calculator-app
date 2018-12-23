@@ -1,0 +1,9 @@
+{
+  "name": "loan-calculator-app",
+  "version": "1.0.0",
+  "description": "A small app that calculates loan stats.",
+  "main": "app.js",
+  "license": "MIT",
+  "repository": "https://github.com/danielsmits/loan-calculator-app.git",
+  "author": "DanielSmits <info@agileproduction.nl>"
+}
